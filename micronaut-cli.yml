@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: declarative.empty.post
+---
+testFramework: junit
+sourceLanguage: java
